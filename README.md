@@ -1,4 +1,4 @@
-##Hi, I am Devansh Singh ✨
+Hi, I am Devansh Singh ✨
 
 🧠 Computer Science student at VIT Chennai
 Specialization in AI and ML
